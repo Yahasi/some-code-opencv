@@ -1,3 +1,5 @@
+#LESSON 8
+
 from datetime import datetime
 
 import cv2

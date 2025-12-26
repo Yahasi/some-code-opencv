@@ -1,3 +1,5 @@
+#LESSON 34
+
 import cv2
 import numpy as np
 

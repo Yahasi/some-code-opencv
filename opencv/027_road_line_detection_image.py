@@ -1,3 +1,5 @@
+#LESSON 32
+
 import cv2
 import matplotlib.pylab as plt
 import numpy as np
